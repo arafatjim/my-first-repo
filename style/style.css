@@ -1,0 +1,47 @@
+*{
+          padding: 0px;
+          margin: 0px;
+}
+.test{
+          cursor: pointer;
+          color: blueviolet;
+}
+.summ{
+          cursor: pointer;
+}
+.ban{
+          cursor:url("pattern.png"),auto;
+}
+.box1{
+          width: 120px;
+          height: 100px;
+          background-color: brown;
+}
+.box2{
+          width: 120px;
+          height: 100px;
+          background-color: rgb(108, 73, 123);
+}
+.box3{
+          width: 120px;
+          height: 100px;
+          background-color: rgb(33, 228, 72);
+}
+.container{
+          display: flex;
+          height: 500px;
+          justify-content: space-evenly;
+          border: 2px solid black;
+          align-items: center;
+}
+.imgcontainer{
+          display: flex;
+          height: 200px;
+        
+          justify-content: space-around;
+          
+}
+.photo{
+          width: 150px;
+          height: 100px;
+}
